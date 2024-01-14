@@ -7,3 +7,5 @@
 * 🛠️ Currently building a full-stack e-commerce website with Django
 * 🚀 Exploring exciting projects like Llama and Stable-diffusion
 * 🌍 Let's connect and code together!
+  
+![ReactJS](https://img.shields.io/badge/-61DAFB?logo=react&logoColor=white&logoWidth=30) ![Django](https://img.shields.io/badge/-092e20?logo=django&logoColor=white&logoWidth=30&logoMarginLeft=1)
