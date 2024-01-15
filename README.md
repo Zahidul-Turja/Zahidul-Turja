@@ -1,4 +1,6 @@
 ## 👋 Hey there, I'm Zahidul Islam Turja!
+<!--- ([![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://zahidulturja@gmail.com) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)) -->
+
 * 🎓 Student at East West University, Bangladesh 🇧🇩
 * 🌐 Web Developer | Full Stack
 * 🎨 Passionate about UI/UX Design using Figma
@@ -7,5 +9,7 @@
 * 🛠️ Currently building a full-stack e-commerce website with Django
 * 🚀 Exploring exciting projects like Llama and Stable-diffusion
 * 🌍 Let's connect and code together!
-  
-![ReactJS](https://img.shields.io/badge/-61DAFB?logo=react&logoColor=white&logoWidth=30) ![Django](https://img.shields.io/badge/-092e20?logo=django&logoColor=white&logoWidth=30&logoMarginLeft=1)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
