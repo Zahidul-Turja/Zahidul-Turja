@@ -1,5 +1,6 @@
 # Hey there, I'm Zahidul Islam Turja
 
+* 👨‍💻 `Backend Developer`, working for `EWN Bangladesh Ltd.`
 * 🎓 Recently Graduated in `Computer Science`, Based in Bangladesh 🇧🇩
 * 🌐 Web Developer | Full Stack
 * 🎨 Passionate about UI/UX Design using Figma
